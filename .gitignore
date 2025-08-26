@@ -1,0 +1,33 @@
+# --- TFG: ignora datos y artefactos pesados ---
+dataset/
+capturas_errores/
+videos_recortados/
+entrada_CNN/
+modelos/
+
+# Binarios grandes
+*.mp4
+*.avi
+*.mov
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Jupyter / Python típicos
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+*.log
+
+# SO/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
