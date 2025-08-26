@@ -4,7 +4,6 @@ dataset/
 capturas_errores/
 videos_recortados/
 entrada_CNN/
-modelos/
 
 # Binarios grandes
 *.mp4
